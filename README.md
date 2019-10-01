@@ -5,7 +5,4 @@ My first repository.
 
 **I'm trying to write things in bold about myself** 
 
-Trying to do a footnote here. [^1]
-
-[^1]: I have a dog named Petey.
-
+>I have a dog.
