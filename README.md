@@ -6,3 +6,6 @@ My first repository.
 **I'm trying to write things in bold about myself** 
 
 >I have a dog.
+
+
+Trying to do more edits.
